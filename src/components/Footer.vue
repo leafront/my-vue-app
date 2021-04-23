@@ -7,6 +7,6 @@
 <style lang="scss">
 .footer{
 	background: red;
-	height: 400px;
+	height: 100px;
 }
 </style>
